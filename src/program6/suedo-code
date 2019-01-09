@@ -1,0 +1,13 @@
+import scanner
+prompt user to enter two numbers
+declare two variables "num1" "num2"
+prompt user to enter an operator
+declare variable "opp"
+declare variable "total"
+if statement: if the operator is a +, add the numbers
+else if: if the operator is a -, subtract the numbers
+else if: if the operator is a *, multiply the numbers
+else if: if the operator is a /, divide the numbers
+else if: if the operator is a %, divide the numbers and give the remainder
+else: if the user did not enter an operator, tell user that it's not an operator
+display the answer

@@ -1,0 +1,28 @@
+import scanner
+prompt the user to enter the year they were born
+declare "year" variable and nextInt
+switch statement: (year % 12)
+case 0: print "monkey" and "Attribute: Changebility"
+break
+case 1: print "rooster" and "Attribute: Being Constant"
+break
+case 2: print "dog" and "Attribute: Fidelety"
+break
+case 3: print "pig" and "Attribute: Amiability"
+break
+case 4: print "rat" and "Attribute: Wisdom"
+break
+case 5: print "ox" and "Attribute: Industriosness"
+break
+case 6: print "tiger" and "Attribute: Valor"
+break
+case 7: print "rabbit" and "Attribute: Caution"
+break
+case 8: print "dragon" and "Attribute: Strength"
+break
+case 9: print "snake" and "Attribute: Flexibility"
+break
+case 10: print "horse" and "Attribute: Forging ahead"
+break
+case 11: print "sheep" and "Attribute: Unity"
+break
